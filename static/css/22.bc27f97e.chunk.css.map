@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/view/components/result-page/result-page.css"],"names":[],"mappings":"AAAA,QACE,kBAAqB,CACrB,eACF","file":"22.bc27f97e.chunk.css","sourcesContent":[".result {\n  margin: 10px 0 60px 0;\n  overflow-y: auto;\n}"]}
